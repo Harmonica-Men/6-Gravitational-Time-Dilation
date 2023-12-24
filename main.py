@@ -1,7 +1,7 @@
 # Compute Gravitational Time Dilation #
 # Ratio is ratio of circum/circum(hole) #
 # time2 elapsed time, near black hole #
-# time1
+# time1 elapsed time, far away from hole #
 
 import math
 
